@@ -1,0 +1,5 @@
+{
+  "name": "Sign Spotlight AI",
+  "description": "An application that uses AI to analyze a photo, automatically detect the main sign (logo, text, or light panel), keep the sign in its original vibrant colors, and convert the rest of the image to a high-contrast, perfect black and white.",
+  "requestFramePermissions": []
+}
